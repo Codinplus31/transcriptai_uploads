@@ -1,0 +1,25 @@
+```srt
+1
+00:00:00,000 --> 00:00:01,000
+The biggest lesson I have learnt this year
+
+2
+00:00:01,000 --> 00:00:03,000
+is not to force anything.
+
+3
+00:00:03,000 --> 00:00:05,000
+Conversations, friendships, attention, love, 
+
+4
+00:00:05,000 --> 00:00:10,000
+anything forced is just not worth fighting for. 
+
+5
+00:00:10,000 --> 00:00:15,000
+Whatever flows, flows, whatever crashes, crashes.
+
+6
+00:00:15,000 --> 00:00:18,000
+It is what it is.
+```
